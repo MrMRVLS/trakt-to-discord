@@ -1,8 +1,8 @@
 # Trakt.tv 'Watching' to → Discord Rich Presence 📺
 Update your Discord status based on movies you are watching on Trakt.tv.
 
-- 🖼 Detects Movie or a TV Show.
-- ⭐ Shows ratings.
+- 🖼 Detects what are you playing; a Movie or a TV Show.
+- ⭐ Shows the ratings.
 - 📌 Shows buttons to the IMDB page and your Trakt profile.
 
 <p align="left"> <img src="assets/rpc.png" height="25%" width="25%" alt="MrMRVLS" /> </p>
@@ -10,7 +10,6 @@ Update your Discord status based on movies you are watching on Trakt.tv.
 ## Requirements 🧰
 - [Trakt.tv](https://trakt.tv/) account (ofc ☘😏)
 - [Python 3+](https://www.python.org/)
-- Trakt.tv [API](https://trakt.tv/oauth/applications) Key
 - [Discord](https://discord.com/) client for RPC connectivity. 
 
 ## Installation 🐍
@@ -65,3 +64,5 @@ If you did all the steps correctly, you should see the following message on the 
 Successfully connected with the Server!
 Trakt: not playing.
 ````
+---
+_**Do you have an improvement? Feel free to contribute by a pull request.**_ 🤍
